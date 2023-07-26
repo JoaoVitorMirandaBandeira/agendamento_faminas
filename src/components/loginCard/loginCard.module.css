@@ -1,0 +1,6 @@
+.loginCard{
+    @apply bg-white;
+}
+.textCard{
+    @apply text-2xl;
+}
